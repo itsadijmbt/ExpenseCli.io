@@ -45,6 +45,7 @@ An interactive, terminal-based expense tracker built with [Bubble Tea](https://g
 
 ## 📥 Installation
 
+#dowmload precompiled binary :)
 ```bash
 # Clone this repository
 git clone https://github.com/your-username/expense-tracker-cli.git
